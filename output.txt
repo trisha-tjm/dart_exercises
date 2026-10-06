@@ -1,0 +1,6 @@
+Customer: Trisha Mae Aclan
+Total Bill: Php 3500
+Qualifies for Free Shipping? true
+Total items purchased: 2
+Thousand-Peso Bills Needed: 3
+VIP Member? true
